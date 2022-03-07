@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elmoharb-Elaqwa/simple-shopping/static/css/main.8dd169f6.css",
+    "main.js": "/Elmoharb-Elaqwa/simple-shopping/static/js/main.46b56992.js",
+    "static/js/787.5af9c4d9.chunk.js": "/Elmoharb-Elaqwa/simple-shopping/static/js/787.5af9c4d9.chunk.js",
+    "index.html": "/Elmoharb-Elaqwa/simple-shopping/index.html",
+    "main.8dd169f6.css.map": "/Elmoharb-Elaqwa/simple-shopping/static/css/main.8dd169f6.css.map",
+    "main.46b56992.js.map": "/Elmoharb-Elaqwa/simple-shopping/static/js/main.46b56992.js.map",
+    "787.5af9c4d9.chunk.js.map": "/Elmoharb-Elaqwa/simple-shopping/static/js/787.5af9c4d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd169f6.css",
+    "static/js/main.46b56992.js"
+  ]
+}
